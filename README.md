@@ -13,3 +13,7 @@ Este repositorio contiene el código MATLAB, los datos y el paper para un proyec
 1. Abrir `NILM_Residential_detectionWavelet.m` en MATLAB.
 2. Asegurarse de que el archivo `.csv` esté en la misma carpeta o actualizar la ruta en la variable `filename`.
 3. Ejecutar el script.
+
+## Contacto
+Correo electrónico astriandrada@ing.unrc.edu.ar
+LinkedIn https://ar.linkedin.com/in/aeandradativani
