@@ -24,7 +24,7 @@ Este enfoque evita el uso de hardware especializado y **wavelets a medida**, lo 
 ## ⚙️ Requisitos
 
 -   MATLAB (se recomienda la versión R2020b o superior).
--   Se puede requerir la Toolbox de Wavelet de MATLAB.
+-   Toolbox de Wavelet de MATLAB.
 
 ## 🚀 Uso
 
@@ -36,8 +36,7 @@ Este enfoque evita el uso de hardware especializado y **wavelets a medida**, lo 
 ---
 
 ## 🤝 Agradecimientos
-
-Agradecemos especialmente al **Dr. Ing. Juan Astrada** por su invaluable colaboración en la obtención de los datos de consumo eléctrico utilizados en este proyecto.
+Se agradece la colaboración del docente Dr. Ricardo Lima y, especialmente, al Dr. Ing. Juan Astrada por su invaluable colaboración en la obtención de los datos de consumo eléctrico utilizados en este proyecto.
 
 ## 📜 Licencia
 
