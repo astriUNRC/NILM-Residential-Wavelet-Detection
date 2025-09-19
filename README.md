@@ -1,6 +1,6 @@
 # ⚡ Ejemplo Básico de Detección de Eventos en Cargas Eléctricas Residenciales (NILM)
 
-Este repositorio contiene la implementación del algoritmo **NILM** (Non-Intrusive Load Monitoring) para la detección de eventos de encendido y apagado de electrodomésticos, como refrigeradores (heladeras), a partir de una única señal de consumo eléctrico. El método utiliza la **Transformada Wavelet Estacionaria (SWT)** y un **Criterio Dual** para identificar de forma robusta los cambios transitorios de potencia.
+Este repositorio contiene la implementación del algoritmo **NILM** (Non-Intrusive Load Monitoring) para la detección de eventos de encendido y apagado de un refrigerador (heladera), a partir de una única señal de consumo eléctrico. El método utiliza la **Transformada Wavelet Estacionaria (SWT)** y un **Criterio Dual** para identificar de forma robusta los cambios transitorios de potencia.
 
 ## 📝 Metodología
 
