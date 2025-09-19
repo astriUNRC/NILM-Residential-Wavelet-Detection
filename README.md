@@ -47,5 +47,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 Para cualquier pregunta o sugerencia, puedes contactar a los autores:
 
--   **Astri Edith Andrada Tivani**: astriandrada@ing.unrc.edu.ar
+-   **Esp. Ing. Astri Edith Andrada Tivani**: astriandrada@ing.unrc.edu.ar
 -   **Dr. Ing. Juan Astrada**: jastrada@ing.unrc.edu.ar
