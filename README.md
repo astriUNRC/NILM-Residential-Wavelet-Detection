@@ -28,15 +28,15 @@ Este enfoque evita el uso de hardware especializado y **wavelets a medida**, lo 
 
 ## 🚀 Uso
 
-1.  Clona este repositorio en tu máquina local.
-2.  Abre el archivo `NILM_Residential_detectionWavelet.m` en MATLAB.
-3.  Asegúrate de que los archivos de datos `.csv` se encuentren en la misma carpeta o actualiza la ruta de carga en el script.
-4.  Ejecuta el script. El programa procesará los datos, detectará los eventos y generará visualizaciones de los resultados.
+1.  Clone este repositorio en su máquina local.
+2.  Abra el archivo `NILM_Residential_detectionWavelet.m` en MATLAB.
+3.  Asegúrese de que los archivos de datos `.csv` se encuentren en la misma carpeta o actualiza la ruta de carga en el script.
+4.  Ejecute el script. El programa procesará los datos, detectará los eventos y generará visualizaciones de los resultados.
 
 ---
 
 ## 🤝 Agradecimientos
-Se agradece la colaboración del docente Dr. Ricardo Lima y, especialmente, al Dr. Ing. Juan Astrada por su invaluable colaboración en la obtención de los datos de consumo eléctrico utilizados en este proyecto.
+Se agradece la colaboración del docente Mg. Ricardo Lima y, especialmente, al Dr. Ing. Juan Astrada por su invaluable colaboración en la obtención de los datos de consumo eléctrico utilizados en este proyecto.
 
 ## 📜 Licencia
 
