@@ -17,3 +17,5 @@ Este repositorio contiene el código MATLAB, los datos y el paper para un proyec
 ## Contacto
 Correo electrónico astriandrada@ing.unrc.edu.ar
 LinkedIn https://ar.linkedin.com/in/aeandradativani
+
+Datos proveídos por Dr. Ing. Juan Astrada correo electrónico jastrada@ing.unrc.edu.ar
